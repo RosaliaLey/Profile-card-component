@@ -15,7 +15,7 @@
 
 ### Links
 
-- [Live Site URL](https://rosalialey.github.io/profile-card-component/)
+- [Live Site URL](rosalialey.github.io/profile-card-component/)
 
 ### Built with
 
