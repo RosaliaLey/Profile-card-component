@@ -33,7 +33,7 @@ main {
 }
 
 .container {
-    width: 17em;
+    max-width: 17em;
     text-align:center;
     display:flex;
     align-items:center;
